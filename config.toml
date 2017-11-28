@@ -1,4 +1,4 @@
-baseurl = "https://5rightsbrewing.com"
+baseurl = "https://5rightsbrewing.netlify.com/"
 title = "5 Rights"
 theme = "hugo-universal-theme"
 languageCode = "en-us"

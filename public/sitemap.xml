@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://5rightsbrewing.com/blog/2017/12/31/tap-room-update-12-31-17/</loc>
+    <loc>https://5rightsbrewing.netlify.com/blog/2017/12/31/tap-room-update-12-31-17/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5rightsbrewing.com/blog/2017/11/25/tap-room-update-11-25-17/</loc>
+    <loc>https://5rightsbrewing.netlify.com/blog/2017/11/25/tap-room-update-11-25-17/</loc>
     <lastmod>2017-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5rightsbrewing.com/</loc>
+    <loc>https://5rightsbrewing.netlify.com/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://5rightsbrewing.com/blog/</loc>
+    <loc>https://5rightsbrewing.netlify.com/blog/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://5rightsbrewing.com/categories/</loc>
+    <loc>https://5rightsbrewing.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://5rightsbrewing.com/tags/</loc>
+    <loc>https://5rightsbrewing.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://5rightsbrewing.com/tags/taproom-update/</loc>
-    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://5rightsbrewing.com/categories/taproomupdate/</loc>
+    <loc>https://5rightsbrewing.netlify.com/tags/taproom-update/</loc>
     <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://5rightsbrewing.com/tags/thanksgiving/</loc>
+    <loc>https://5rightsbrewing.netlify.com/categories/taproomupdate/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://5rightsbrewing.netlify.com/tags/thanksgiving/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://5rightsbrewing.com/categories/thankyou/</loc>
+    <loc>https://5rightsbrewing.netlify.com/categories/thankyou/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
