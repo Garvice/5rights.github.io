@@ -1,0 +1,104 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.navbar-brand>img {
+  max-height: 40px;
+}
+
+
+@media (min-width: 992px) {
+  .feature-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .box-simple.feature-0 h3 {
+    font-size: 32px;
+  }
+}
+
+.bar.background-image-fixed-hops {
+  background: url('../img/hops.png') center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bar.background-image-fixed-grain {
+  background: url('../img/grain.png') center top repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bar.background-image-fixed-yeast {
+  background: url('../img/yeast.png') center top repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.testimonials .item .testimonial .bottom {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 75px;
+}
+.testimonials .item .testimonial .name-picture {
+  width: 100%;
+  text-align: center;
+}
+.testimonials .item {
+  opacity: .70;
+}
+.transparent {
+  width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,.5);
+}
+.no-padding {
+  padding:0;
+}
+.bar.background-pentagon {
+  background: url('../img/texture-bw.png') center center repeat;
+  border-top: solid 1px #999999;
+  border-bottom: solid 1px #999999;
+}
+.box-image-text .image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-carousel {
+  background: url('../img/kegs.png') center center repeat;
+}
+.home-carousel .dark-mask {
+  background: transparent;
+}
+.menu-info {
+  display: none;
+}
+.taps {
+  background: url("../img/chalkboard.jpg") center top repeat;
+}
+.taps div {
+  background-color: transparent !important;
+  color: white !important;
+}
+.taps p {
+  background-color: transparent !important;
+  color: white !important;
+}
+.taps .section-items-container text {
+  display: none !important;
+}
+.section-heading {
+  font-size: 15px !important;
+  background: url("../img/green.png") !important;
+
+}

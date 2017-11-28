@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44bf4f83-1418-43aa-93e7-45f2cd5c2353" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/_default/list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/_default/single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/archetypes/default.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/page/single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/breadcrumbs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/clients.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/features.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/recent_posts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/scripts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/see_more.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/testimonials.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/top.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/widgets/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/widgets/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/layouts/partials/widgets/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/owl.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/style.blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/style.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/style.green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/style.marsala.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/style.pink.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/style.red.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/style.turquoise.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/css/style.violet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/js/front.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/js/gmaps.init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/js/hpneo.gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/js/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-universal/static/js/respond.min.js" afterPath="" />
-    </list>
+    <list default="true" id="44bf4f83-1418-43aa-93e7-45f2cd5c2353" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +14,8 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="96" column="37" lean-forward="true" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+            <state relative-caret-position="1536">
+              <caret line="96" column="37" lean-forward="false" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -92,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/layouts/partials/taps.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -102,26 +59,26 @@
         <entry file="file://$PROJECT_DIR$/layouts/partials/testimonials.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
+            <state relative-caret-position="35">
               <caret line="98" column="19" lean-forward="false" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
+            <state relative-caret-position="768">
               <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding />
             </state>
@@ -163,7 +120,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hugo-universal" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -242,8 +199,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -476,11 +433,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48011363" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22443181" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3513732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -490,6 +446,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -536,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,7 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,7 +541,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="347">
             <caret line="378" column="6" lean-forward="false" selection-start-line="378" selection-start-column="6" selection-end-line="378" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -634,7 +588,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -696,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
           <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-482">
           <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="1288" column="34" lean-forward="false" selection-start-line="1288" selection-start-column="34" selection-end-line="1288" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="1756" column="5" lean-forward="false" selection-start-line="1756" selection-start-column="5" selection-end-line="1756" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18320">
           <caret line="1145" column="95" lean-forward="false" selection-start-line="1145" selection-start-column="95" selection-end-line="1145" selection-end-column="95" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,14 +768,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/testimonials.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -838,15 +782,15 @@
     <entry file="file://$PROJECT_DIR$/layouts/partials/taps.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="96" column="37" lean-forward="true" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+        <state relative-caret-position="1536">
+          <caret line="96" column="37" lean-forward="false" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -873,22 +817,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
+        <state relative-caret-position="35">
           <caret line="98" column="19" lean-forward="false" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding />
         </state>
       </provider>
