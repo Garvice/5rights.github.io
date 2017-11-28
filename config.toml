@@ -1,0 +1,190 @@
+baseurl = "https://5rightsbrewing.com"
+title = "5 Rights"
+theme = "hugo-universal"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+#disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "The Right Brewery"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Primary Care"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 2
+
+[[menu.main]]
+    name = "The Right Beer"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 3
+
+[[menu.main]]
+    name = "The Right News"
+    url  = "/blog/"
+    weight = 4
+
+[[menu.main]]
+    name = "The Right People"
+    url  = "/contact/"
+    weight = 5
+
+# Top bar social links menu
+[[menu.topbar]]
+    weight = 1
+    name = "Facebook"
+    url = "http://www.facebook.com/5rightsbrewing"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Twitter"
+    url = "http://twitter.com/5RightsBrewing"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Instagram"
+    url = "http://instagram.com"
+    pre = "<i class='fa fa-2x fa-instagram'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Email"
+    url = "mailto:info@5rightsbrewing.com"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "5 Rights"
+    defaultKeywords = ["beer", "awards", "blog"]
+    defaultDescription = "5 Rights Brewing"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyDHBDrrd61TEItbK1nFIvWcXK-S3IGVi6o"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "green"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "info@5rightsbrewing.com"
+
+    about_us = "<p>5 Rights Brewing Company is the continuation of a dream for us, a result of many years of living, loving and learning. For many years we have dreamed of having a place where people could feel like part of a family and get great beer, great food and be with people that are passionate about both. 5 Rights is the place that you can count on for quality care.</p><p>Our faith and family is what drives us in all aspects of our lives. We started 5 Rights Brewing Company as a family business that strives to welcome all who come to visit us into our extended family.</p><p>In regards to our faith, we understand that all that we have is not truly ours, but loaned to us by God to be good stewards of. Our business ethics are guided by Biblical standards, which we work not just representing ourselves but also representing the Lord we serve. Our goal is not just to have a successful business but to be able to serve our community and make an impact in peoples’ lives. We want our presence to be a blessing to our community and hope to leave this earth better than we found it. Good ends, good motives and good means are the 3 standards set by scripture that guides our business.</p><p>R.J. & Kristi Whitlow and the 5 Rights Brewing Family</p>"
+    copyright = "Copyright (c) 2014 - 2017, 5 Rights Brewing; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo-small.png"
+    address = """<p><strong>5 Rights Brewing</strong>
+        <br>7028 46th St NE
+        <br>Marysville, WA 98270
+      </p>
+      """
+    latitude = "48.03725"
+    longitude = "-122.13616"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">Contact us at (425) 334-1026 or info@5rightsbrewing.com.</p>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      </p>
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.why]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "WHY '5 Rights'?"
+    subtitle = """While Kristi was training how not to kill people in nursing school she was taught the “5 Rights of
+    Medication Administration” which are: Right Medication; Right Dose; Right Time; Right Route and Right Patient.
+    Failing to check these “Five Rights” could lead to harming your patient, or even worse killing your patient. It is a
+    tool used by nurses across the world to ensure the safe and thoughtful practice of medicine.</br></br></br>When we
+    named our brewery Kristi and R.J. thought this concept was a natural fit to express our passion for doing what’s
+    right for our customers. We at 5 Rights practice thoughtful brewing and care deeply about the product we share with
+    our family and friends. Excellence in standard and practice ensure that the beer we make is worthy of our name. To
+    quote Florence Nightingale: “I attribute my success to this: I never gave or took any excuse."""
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "The Right Events"
+    subtitle = "5 Rights isn't just about beer it's about community, it's about relationships with old friends and new. So come join us in all things 5 Rights."
+    icon = "img/testimonials/calendar.jpeg"
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-file-code-o"
+    title = "Primary Care Patron"
+    subtitle = "Do you have a pre-existing condition that can only be remidied with delicious beer?"
+    link_url = "#"
+    link_text = "Join the PCP Network"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "The Right News"
+    subtitle = "At 5 Rights Brewing we love to share our faith and our beer."
+
+[params.taps]
+    enable = true
+    title = "The Right Beers"
