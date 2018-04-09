@@ -1249,11 +1249,11 @@ fieldset[disabled] .btn-template-primary.active {
   filter: none;
   -webkit-filter: none;
 }
-.testimonials {
+.calendar_events {
   padding: 0;
   margin-bottom: 40px;
 }
-.testimonials .item {
+.calendar_events .item {
   list-style-type: none;
   margin: 0 5px;
   background: #fff;
@@ -1262,31 +1262,31 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-.testimonials .item .testimonial {
+.calendar_events .item .calendar_event {
   position: relative;
   padding: 20px;
 }
-.testimonials .item .testimonial:before,
-.testimonials .item .testimonial:after {
+.calendar_events .item .calendar_event:before,
+.calendar_events .item .calendar_event:after {
   content: " ";
   display: table;
 }
-.testimonials .item .testimonial:after {
+.calendar_events .item .calendar_event:after {
   clear: both;
 }
-.testimonials .item .testimonial:before,
-.testimonials .item .testimonial:after {
+.calendar_events .item .calendar_event:before,
+.calendar_events .item .calendar_event:after {
   content: " ";
   display: table;
 }
-.testimonials .item .testimonial:after {
+.calendar_events .item .calendar_event:after {
   clear: both;
 }
-.testimonials .item .testimonial .text {
+.calendar_events .item .calendar_event .text {
   color: #999999;
   margin-bottom: 40px;
 }
-.testimonials .item .testimonial .bottom {
+.calendar_events .item .calendar_event .bottom {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -1297,27 +1297,27 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 20px;
   height: 50px;
 }
-.testimonials .item .testimonial .bottom .icon {
+.calendar_events .item .calendar_event .bottom .icon {
   color: #38a7bb;
   font-size: 30px;
   float: left;
   width: 20%;
 }
-.testimonials .item .testimonial .name-picture {
+.calendar_events .item .calendar_event .event-name {
   width: 100%;
   text-align: right;
 }
-.testimonials .item .testimonial .name-picture h5 {
+.calendar_events .item .calendar_event .event-name h5 {
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
-.testimonials .item .testimonial .name-picture p {
+.calendar_events .item .calendar_event .event-name p {
   color: #999999;
   margin: 0;
   font-size: 12px;
 }
-.testimonials .item .testimonial .name-picture img {
+.calendar_events .item .calendar_event .event-name img {
   float: right;
   width: 60px;
   border-radius: 30px;

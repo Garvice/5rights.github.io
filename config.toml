@@ -103,12 +103,12 @@ paginate = 10
 
     logo = "img/logo-small.png"
     address = """<p><strong>5 Rights Brewing</strong>
-        <br>7028 46th St NE
-        <br>Marysville, WA 98270
+        <br>8928 Vernon Rd
+        <br>Lake Stevens, WA 98258
       </p>
       """
-    latitude = "48.03725"
-    longitude = "-122.13616"
+    latitude = "48.002296"
+    longitude = "-122.1097875"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -142,8 +142,8 @@ paginate = 10
 
 [params.why]
     enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
+    # All calendar_events are defined in their own files. You can find example items
+    # at 'exampleSite/data/calendar_events'.
     # For more informtion take a look at the README.
     title = "WHY '5 Rights'?"
     subtitle = """While Kristi was training how not to kill people in nursing school she was taught the “5 Rights of
@@ -155,14 +155,14 @@ paginate = 10
     our family and friends. Excellence in standard and practice ensure that the beer we make is worthy of our name. To
     quote Florence Nightingale: “I attribute my success to this: I never gave or took any excuse."""
 
-[params.testimonials]
+[params.calendar_events]
     enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
+    # All calendar_events are defined in their own files. You can find example items
+    # at 'exampleSite/data/calendar_events'.
     # For more informtion take a look at the README.
     title = "The Right Events"
     subtitle = "5 Rights isn't just about beer it's about community, it's about relationships with old friends and new. So come join us in all things 5 Rights."
-    icon = "img/testimonials/calendar.jpeg"
+    icon = "img/calendar_events/right-events.png"
 
 [params.see_more]
     enable = true

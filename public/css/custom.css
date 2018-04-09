@@ -42,18 +42,72 @@
   background-attachment: fixed;
   background-size: cover;
 }
-.testimonials .item .testimonial .bottom {
+.calendar_events .item {
+  padding-bottom: 0;
+}
+.calendar_events .item .calendar_event {
+  height: 400px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.calendar_events .item .calendar_event .bottom {
   text-align: left;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   height: 75px;
 }
-.testimonials .item .testimonial .name-picture {
+.calendar_events .item .calendar_event .date-logo {
+  display: flex;
+  justify-content: space-between;
+}
+.calendar_events .item .calendar_event .date-logo .logo {
+  position: absolute;
+  right: 20px;
+  bottom: 126px;
+}
+.calendar_events .item .calendar_event .date-logo .logo img{
+  max-height: 100px;
+  max-width: 100px;
+}
+.calendar_events .item .calendar_event .right-events-logo {
+  height: 98px;
+  bottom: 0px;
+}
+.calendar_events .item .calendar_event .right-events-logo .icon {
+  max-height: 100%;
+  max-width: 100%;
+  background-color: #000000;
+  height: auto;
+  width: auto;
+  border: none;
+  border-radius: 0px;
+}
+.calendar_events .item .calendar_event .right-events-logo .icon img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.calendar_events .item .calendar_event .event-description {
+ height: 80px;
+}
+.calendar_events .item .calendar_event .date-time {
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+}
+.calendar_events .item .calendar_event .event-name {
   width: 100%;
   text-align: center;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-.testimonials .item {
+.calendar_events .item .calendar_event .event-name h3{
+  margin-top: 10px;
+}
+.calendar_events .item {
   opacity: .70;
 }
 .transparent {
@@ -84,6 +138,8 @@
   display: none;
 }
 .taps {
+  margin-bottom: -13px;
+  margin-top: -13px;
   background: url("../img/chalkboard.jpg") center top repeat;
 }
 .taps div {
@@ -100,5 +156,7 @@
 .section-heading {
   font-size: 15px !important;
   background: url("../img/green.png") !important;
-
+}
+#map {
+  height: 600px;
 }
