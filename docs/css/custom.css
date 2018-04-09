@@ -1,0 +1,162 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.navbar-brand>img {
+  max-height: 40px;
+}
+
+
+@media (min-width: 992px) {
+  .feature-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .box-simple.feature-0 h3 {
+    font-size: 32px;
+  }
+}
+
+.bar.background-image-fixed-hops {
+  background: url('../img/hops.png') center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bar.background-image-fixed-grain {
+  background: url('../img/grain.png') center top repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bar.background-image-fixed-yeast {
+  background: url('../img/yeast.png') center top repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.calendar_events .item {
+  padding-bottom: 0;
+}
+.calendar_events .item .calendar_event {
+  height: 400px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.calendar_events .item .calendar_event .bottom {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 75px;
+}
+.calendar_events .item .calendar_event .date-logo {
+  display: flex;
+  justify-content: space-between;
+}
+.calendar_events .item .calendar_event .date-logo .logo {
+  position: absolute;
+  right: 20px;
+  bottom: 126px;
+}
+.calendar_events .item .calendar_event .date-logo .logo img{
+  max-height: 100px;
+  max-width: 100px;
+}
+.calendar_events .item .calendar_event .right-events-logo {
+  height: 98px;
+  bottom: 0px;
+}
+.calendar_events .item .calendar_event .right-events-logo .icon {
+  max-height: 100%;
+  max-width: 100%;
+  background-color: #000000;
+  height: auto;
+  width: auto;
+  border: none;
+  border-radius: 0px;
+}
+.calendar_events .item .calendar_event .right-events-logo .icon img {
+  max-height: 100%;
+  max-width: 100%;
+}
+.calendar_events .item .calendar_event .event-description {
+ height: 80px;
+}
+.calendar_events .item .calendar_event .date-time {
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+}
+.calendar_events .item .calendar_event .event-name {
+  width: 100%;
+  text-align: center;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.calendar_events .item .calendar_event .event-name h3{
+  margin-top: 10px;
+}
+.calendar_events .item {
+  opacity: .70;
+}
+.transparent {
+  width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,.5);
+}
+.no-padding {
+  padding:0;
+}
+.bar.background-pentagon {
+  background: url('../img/texture-bw.png') center center repeat;
+  border-top: solid 1px #999999;
+  border-bottom: solid 1px #999999;
+}
+.box-image-text .image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-carousel {
+  background: url('../img/kegs.png') center center repeat;
+}
+.home-carousel .dark-mask {
+  background: transparent;
+}
+.menu-info {
+  display: none;
+}
+.taps {
+  margin-bottom: -13px;
+  margin-top: -13px;
+  background: url("../img/chalkboard.jpg") center top repeat;
+}
+.taps div {
+  background-color: transparent !important;
+  color: white !important;
+}
+.taps p {
+  background-color: transparent !important;
+  color: white !important;
+}
+.taps .section-items-container text {
+  display: none !important;
+}
+.section-heading {
+  font-size: 15px !important;
+  background: url("../img/green.png") !important;
+}
+#map {
+  height: 600px;
+}
